@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"/Users/nguyentrunghieu/Downloads/test_ui/abc.cpp","tests":[{"id":1661099658310,"input":"-11.82 -1.19","output":"70.5643 \n6.5050"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nguyentrunghieu/Downloads/test_ui/abc.cpp","group":"local","local":true}
